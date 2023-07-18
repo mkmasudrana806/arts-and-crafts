@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "image": "https://media.istockphoto.com/id/1005282482/photo/large-group-of-elementary-students-having-an-art-class-in-the-classroom.jpg?s=612x612&w=0&k=20&c=6141RFZjv_WlL-p4fVl15DV9zpSpJPnWnms6e-Mr_zI=",
+      "classesTaken": 3,
+      "classNames": ["Art 101", "Painting Basics", "Sculpture Workshop"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "image": "https://media.istockphoto.com/id/1005282482/photo/large-group-of-elementary-students-having-an-art-class-in-the-classroom.jpg?s=612x612&w=0&k=20&c=6141RFZjv_WlL-p4fVl15DV9zpSpJPnWnms6e-Mr_zI=",
+      "classesTaken": 2,
+      "classNames": ["Watercolor Techniques", "Mixed Media Art"]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "janesmithali@example.com",
+
+        "image": "https://media.istockphoto.com/id/1005282482/photo/large-group-of-elementary-students-having-an-art-class-in-the-classroom.jpg?s=612x612&w=0&k=20&c=6141RFZjv_WlL-p4fVl15DV9zpSpJPnWnms6e-Mr_zI=",
+        "classesTaken": 1,
+        "classNames": ["Art 101"]
+    }
+
+  ]
+  

@@ -1,0 +1,59 @@
+.nav_link a {
+    display: block;
+    padding:10px 20px;
+    margin-bottom: 10px ;
+    color: #d0d6dc ;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav_link a:hover {
+    color: antiquewhite;
+  }
+
+.profile{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.profile img {
+    width: 60px !important;
+    height: 60px !important;
+    object-fit: cover;
+}
+
+.profile_name {
+    position: absolute;
+    top: 15px;
+    left: 68px;
+    color: rgb(255 255 255);
+    display: none !important;
+    width: 120px;
+}
+.profile:hover a.profile_name{
+    display: block !important;
+} 
+
+
+@media screen and (max-width: 468px) {
+    .nav_link a {
+        padding: 10px 8px;
+        margin-bottom: 10px ;
+        color: #d0d6dc ;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+      }
+      
+      .nav_link a:hover {
+        color: antiquewhite;
+      }
+      .navbar-brand {
+        margin: 0px;
+      }
+      .navbar-brand a{
+        font-size: 20px;
+        margin: 0px;
+      }
+    
+}

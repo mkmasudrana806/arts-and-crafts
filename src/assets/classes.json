@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Art 101",
+    "instructor": "John Doe",
+    "image": "https://img-c.udemycdn.com/course/480x270/5210972_6b39.jpg",
+    "students": 5,
+    "availableSeats": 10,
+    "price": 50,
+    "total_sets": 15
+  },
+  {
+    "id": 2,
+    "name": "Painting Basics",
+    "instructor": "John Doe",
+    "image": "https://media.istockphoto.com/id/612263694/vector/kids-creativity-creation-symbols-vector-set.jpg?s=612x612&w=0&k=20&c=02NSrPOAdR_0jNnwrb2l0mg3kVIIs_-SvuWVkP23XOM=",
+    "students": 8,
+    "availableSeats": 0,
+    "price": 80,
+    "total_sets": 8
+  },
+  {
+    "id": 3,
+    "name": "Art 101",
+    "instructor": "Bob Johnson",
+    "image": "https://media.istockphoto.com/id/503584542/photo/sewing-equipment.jpg?s=612x612&w=0&k=20&c=C50KFRKIyWEBXCaAWEYAG1Woj1QgL1v0AgqEkHi36Z0=",
+    "students": 7,
+    "availableSeats": 10,
+    "price": 50,
+    "total_sets": 17
+  },
+  {
+    "id": 4,
+    "name": "Painting Basics",
+    "instructor": "John Doe",
+    "image": "https://media.istockphoto.com/id/840562866/vector/patchwork-arts-and-crafts-lettering.jpg?s=612x612&w=0&k=20&c=m32Hd5o4PK2LaMqw--k4no3n3ov0iv-TKSW94fvBvr4=",
+    "students": 1,
+    "availableSeats": 5,
+    "price": 80,
+    "total_sets": 6
+  },
+  {
+    "id": 5,
+    "name": "Art 101",
+    "instructor": "John Doe",
+    "image": "https://media.istockphoto.com/id/507451973/photo/little-boy-painting-bird-house.jpg?s=612x612&w=0&k=20&c=HMU5aqKqtySe0bnWO3YITHRvxSxrPgtsTr21SahcX34=",
+    "students": 9,
+    "availableSeats": 10,
+    "price": 50,
+    "total_sets": 19
+  },
+  {
+    "id": 6,
+    "name": "Watercolor Techniques",
+    "instructor": "Jane Smith",
+    "image": "https://media.istockphoto.com/id/1005282482/photo/large-group-of-elementary-students-having-an-art-class-in-the-classroom.jpg?s=612x612&w=0&k=20&c=6141RFZjv_WlL-p4fVl15DV9zpSpJPnWnms6e-Mr_zI=",
+    "students": 1,
+    "availableSeats": 5,
+    "price": 80,
+    "total_sets": 6
+  }
+]

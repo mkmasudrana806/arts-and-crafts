@@ -1,0 +1,47 @@
+/* ClassesPage.css */
+
+.class-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .class-card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .class-card .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .class-card .card-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .class-card .card-text {
+    margin-bottom: 5px;
+  }
+  
+  .class-card .btn {
+    width: 100%;
+  }
+  
+  .class-card.sold-out {
+    background-color: #ffcccc;
+  }
+  
+  .class-card.sold-out .btn {
+    background-color: #f0f0f0;
+    color: #999;
+    cursor: not-allowed;
+  }
+  
+  .class-card.sold-out .btn:hover {
+    background-color: #f0f0f0;
+    color: #999;
+  }
+  

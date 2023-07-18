@@ -1,0 +1,39 @@
+.sidebar {
+    background-color: #1564b3;
+    padding: 20px;
+  }
+  
+  .sidebar a {
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    color: #212529;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sidebar a:hover {
+    background-color: #e9ecef;
+  }
+  
+  .dashboard-content {
+    padding: 20px;
+  }
+  
+  .dashboard-content h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-content img {
+    max-width: 100px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
